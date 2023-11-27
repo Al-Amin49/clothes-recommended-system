@@ -1,0 +1,9 @@
+images
+embeddings.pkl
+filenames.pkl
+sample
+uploads
+*.log
+
+
+
